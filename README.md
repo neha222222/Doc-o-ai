@@ -17,9 +17,9 @@ We are proud to have created a tool that has the potential to make a positive im
 During the development of AI Doctor Assistant, we gained a deeper understanding of the complexities involved in the medical field and the importance of high-quality data. We also learned the value of effective collaboration and effort in building complex projects like this.
 
 ## What's next for Ai-o-Doc Assist
-my goal is to continue improving AI Doctor Assistant and making it more accurate and accessible for doctors worldwide. We plan on expanding my database and exploring new algorithms that can further increase the tool's accuracy. Additionally, I will be working on integrating the tool with electronic health records systems to make it even more useful for doctors in their daily work.
+My goal is to continue improving AI Doctor Assistant and making it more accurate and accessible for doctors worldwide. We plan on expanding my database and exploring new algorithms that can further increase the tool's accuracy. Additionally, I will be working on integrating the tool with electronic health records systems to make it even more useful for doctors in their daily work.
 
-Installation and Azure technologies used for project
+Installation and technologies used for project
 
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/24c87f31-716e-45bb-9df9-a8e08428e018)
 
