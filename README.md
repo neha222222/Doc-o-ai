@@ -54,6 +54,9 @@ The frontend will now be running locally on [http://localhost:3001/](http://loca
 ### Chatbot
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/e3afe35e-43de-4b7c-88ad-10f2499412b6)
 
+### Api endpoints
+![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/fc0b3b49-47a1-45ae-b8d7-c287f331a8f4)
+
 ### Login
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/63ecd7a5-c96a-4a4e-a3ab-164a66063192)
 
