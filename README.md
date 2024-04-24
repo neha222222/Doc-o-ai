@@ -37,6 +37,7 @@ To run the frontend of this project, follow these steps:
 
 1. Install dependencies using Yarn:
     ```bash
+    cd frontend/
     yarn
     ```
 
@@ -47,6 +48,9 @@ To run the frontend of this project, follow these steps:
 
 The frontend will now be running locally on [http://localhost:3001/](http://localhost:3001/).
 
+###         Video Demo
+[![Video Demo](![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/667d9d40-65a6-42b3-8967-b5d059b30ff7)
+)](https://www.loom.com/share/f7fc55a8baf44cd6a08560135a4aaa2b?sid=aca0067f-9811-40fc-b752-40bbe8511da9)
 
 ### Webpage
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/24c87f31-716e-45bb-9df9-a8e08428e018)
