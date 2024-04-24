@@ -48,6 +48,26 @@ To run the frontend of this project, follow these steps:
 The frontend will now be running locally on [http://localhost:3001/](http://localhost:3001/).
 
 
+### Webpage
+![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/24c87f31-716e-45bb-9df9-a8e08428e018)
+
+### Chatbot
+![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/e3afe35e-43de-4b7c-88ad-10f2499412b6)
+
+### Login
+![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/63ecd7a5-c96a-4a4e-a3ab-164a66063192)
+
+### Disease Check
+![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/481030a4-66e3-4f16-bfb9-ae50fcc29faf)
+
+### Particular Disease Scaling
+![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/61ccdab9-ee1f-415e-b03f-ad27f6d56b85)
+
+## Tech Stack
+![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/4e85b94d-7b51-448e-81c2-0bca5cb68bc8)
+
+
+
 ## Inspiration
 The increasing burden on healthcare systems worldwide and the need for quicker and more efficient diagnosis led us to create AI Doctor Assistant. my goal is to provide doctors with a tool that can aid in the diagnosis process and help them make informed decisions faster.
 
@@ -68,26 +88,6 @@ During the development of AI Doctor Assistant, we gained a deeper understanding 
 
 ## What's next for Ai-o-Doc Assist
 My goal is to continue improving AI Doctor Assistant and making it more accurate and accessible for doctors worldwide. We plan on expanding my database and exploring new algorithms that can further increase the tool's accuracy. Additionally, I will be working on integrating the tool with electronic health records systems to make it even more useful for doctors in their daily work.
-
-### Webpage
-![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/24c87f31-716e-45bb-9df9-a8e08428e018)
-
-### Chatbot
-![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/e3afe35e-43de-4b7c-88ad-10f2499412b6)
-
-### Login
-![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/63ecd7a5-c96a-4a4e-a3ab-164a66063192)
-
-### Disease Check
-![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/481030a4-66e3-4f16-bfb9-ae50fcc29faf)
-
-### Particular Disease Scaling
-![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/61ccdab9-ee1f-415e-b03f-ad27f6d56b85)
-
-## Tech Stack
-![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/4e85b94d-7b51-448e-81c2-0bca5cb68bc8)
-
-
 
 
 
