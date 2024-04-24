@@ -1,3 +1,53 @@
+# Backend Setup Guide
+
+To run the backend of this project, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/neha222222/Doc-o-ai.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd Doc-o-ai
+    ```
+
+3. Navigate to the backend directory:
+    ```bash
+    cd backend
+    ```
+
+4. Install dependencies using pip:
+    ```bash
+    pip install -r ./requirements.txt
+    ```
+
+5. Start the backend server:
+    ```bash
+    uvicorn main:app --reload
+    ```
+
+The backend will now be running locally on [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+
+You can test the individual APIs by navigating to [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
+
+# Frontend Setup Guide
+
+To run the frontend of this project, follow these steps:
+
+1. Install dependencies using Yarn:
+    ```bash
+    yarn
+    ```
+
+2. Start the development server:
+    ```bash
+    yarn dev
+    ```
+
+The frontend will now be running locally on [http://localhost:3001/](http://localhost:3001/).
+
+
 ## Inspiration
 The increasing burden on healthcare systems worldwide and the need for quicker and more efficient diagnosis led us to create AI Doctor Assistant. my goal is to provide doctors with a tool that can aid in the diagnosis process and help them make informed decisions faster.
 
