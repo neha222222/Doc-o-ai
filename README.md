@@ -29,7 +29,7 @@ My goal is to continue improving AI Doctor Assistant and making it more accurate
 
 
 
-### WEBPAGE
+### Webpage
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/24c87f31-716e-45bb-9df9-a8e08428e018)
 
 ### Chatbot
@@ -43,6 +43,10 @@ My goal is to continue improving AI Doctor Assistant and making it more accurate
 
 ### Particular Disease Scaling
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/61ccdab9-ee1f-415e-b03f-ad27f6d56b85)
+
+## Tech Stack
+
+
 
 
 
