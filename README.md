@@ -21,19 +21,27 @@ My goal is to continue improving AI Doctor Assistant and making it more accurate
 
 ## Installation and technologies used for project
 
-# WEBPAGE
+
+
+
+
+
+
+
+
+### WEBPAGE
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/24c87f31-716e-45bb-9df9-a8e08428e018)
 
-#
+### Chatbot
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/e3afe35e-43de-4b7c-88ad-10f2499412b6)
 
-#
+### Login
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/63ecd7a5-c96a-4a4e-a3ab-164a66063192)
 
-#
+### Disease Check
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/481030a4-66e3-4f16-bfb9-ae50fcc29faf)
 
-#
+### Particular Disease Scaling
 ![image](https://github.com/neha222222/Doc-o-ai/assets/132138786/61ccdab9-ee1f-415e-b03f-ad27f6d56b85)
 
 
