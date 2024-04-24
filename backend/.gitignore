@@ -1,0 +1,3 @@
+# local env file
+.env
+__pychache__/
